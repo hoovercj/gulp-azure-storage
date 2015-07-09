@@ -3,6 +3,8 @@ gulp-azure-storage
 
 Gulp plugin to download and upload files to/from the Azure blob storage.
 
+OUT OF DATE 
+
 ## Installation
 
 ```
